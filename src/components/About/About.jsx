@@ -2,14 +2,13 @@ import './About.css';
 
 const About = () => {
   return (
+    // If you want to change the text, you can change the text here
     <section id="about" className="about-section">
       <div className="about-container">
         <div className="about-content">
           <h2 className="section-title">About Us</h2>
           <div className="about-text">
             <p>
-              // This is the about us section.
-              // You can edit the text here to change the about us section.
               Builder & Management Corp. is Florida’s all-in-one real estate powerhouse. 
               With licenses in general contracting, real estate, lending, and law — we simplify your entire project from start to finish.
               Whether you’re flipping homes, building duplexes, or structuring commercial deals — we handle it all.
@@ -37,4 +36,3 @@ const About = () => {
 };
 
 export default About;
-
