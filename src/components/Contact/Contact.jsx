@@ -12,7 +12,7 @@ const EMAIL_CONFIG = {
   SERVICE_ID: 'service_jr2231s',
   
   // Your EmailJS Template ID (found in Email Templates)
-  TEMPLATE_ID: 'template_v85km9h',
+  TEMPLATE_ID: 'template_cxq3n0j',
   
   // The email address where you want to receive form submissions
   // This should be set in your EmailJS email service settings
